@@ -48,7 +48,7 @@
         <collectionProp name="Arguments.arguments">
           <elementProp name="BASE_URL_1" elementType="Argument">
             <stringProp name="Argument.name">BASE_URL_1</stringProp>
-            <stringProp name="Argument.value">3.125.41.252</stringProp>
+            <stringProp name="Argument.value">18.194.226.232</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
         </collectionProp>
@@ -306,7 +306,7 @@
             </elementProp>
             <elementProp name="influxdbUrl" elementType="Argument">
               <stringProp name="Argument.name">influxdbUrl</stringProp>
-              <stringProp name="Argument.value">http://3.125.41.252:8086/write?db=nodeapp</stringProp>
+              <stringProp name="Argument.value">http://18.224.173.104:8086/write?db=nodeapp</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
             <elementProp name="application" elementType="Argument">
@@ -321,7 +321,7 @@
             </elementProp>
             <elementProp name="summaryOnly" elementType="Argument">
               <stringProp name="Argument.name">summaryOnly</stringProp>
-              <stringProp name="Argument.value">true</stringProp>
+              <stringProp name="Argument.value">false</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
             <elementProp name="samplersRegex" elementType="Argument">
